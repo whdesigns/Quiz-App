@@ -14,8 +14,8 @@
 
 
 #### The meter will gradually fill up each time the user answers a question. This is so the user is aware of how long the app goes on for. 
-![](quizIMGs/Full_meter.png)
 ![](quizIMGs/empty_meter.png)
+![](quizIMGs/Full_meter.png)
 
 
 #### At the end of the quiz an alert box will appear asking the user whether they want to restart or not 
